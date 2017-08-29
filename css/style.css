@@ -2032,8 +2032,8 @@ main {
     background-color: #ffffff;
     letter-spacing: 0;
     box-shadow:
-            0 10px 20px 0 rgba(4, 6, 6, 0.2),
-            0 20px 40px 0 rgba(4, 6, 6, 0.75);
+        0 10px 20px 0 rgba(4, 6, 6, 0.2),
+        0 20px 40px 0 rgba(4, 6, 6, 0.75);
     z-index: 100;
     }
 
