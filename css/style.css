@@ -182,20 +182,12 @@ fieldset {
 
 legend {
     box-sizing: border-box;
-    color:
-    display
-    max-widt
-    pad
     white-space: normal;
-    }
-
-textarea {
-    overflow: auto;
     }
 
 [type="checkbox"],
 [type="radio"] {
-    box-sizing: borde
+    box-sizing: border-box;
     padding: 0;
     }
 
